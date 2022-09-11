@@ -1,0 +1,30 @@
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.exe
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.deps.json
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.runtimeconfig.json
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.dll
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.pdb
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.dll
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\refint\Exercise1_LINQ.dll
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.pdb
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Bureau\Programme W24\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\ref\Exercise1_LINQ.dll
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.exe
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.deps.json
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.runtimeconfig.json
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.dll
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\bin\Debug\net6.0\Exercise1_LINQ.pdb
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.dll
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\refint\Exercise1_LINQ.dll
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.pdb
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\Exercise1_LINQ.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\Documents\École\W24-MW DÉVELOPPEMENT D'APPLICATIONS WEB\Cours 1\Exercise1_LINQ\Exercise1_LINQ\obj\Debug\net6.0\ref\Exercise1_LINQ.dll
